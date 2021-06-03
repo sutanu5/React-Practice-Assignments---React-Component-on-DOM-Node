@@ -1,9 +1,10 @@
 import { render } from 'react-dom';
 
-import react from 'react';
+import React from 'react';
 
 
-class App extends render{
+const App = () => {
+
 
  return ( 
 
