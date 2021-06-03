@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import react from 'react';
 
 
-const App = () => {
+class App extends render{
 
  return ( 
 
